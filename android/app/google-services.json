@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910507929298",
+    "project_id": "gluttonresto",
+    "storage_bucket": "gluttonresto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910507929298:android:1fbb82b9d2152e5272070b",
+        "android_client_info": {
+          "package_name": "com.gluttonresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910507929298-cef6egidj9n10rofncb1mftm5ufk58rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gluttonresto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "910507929298-vvkde5e56a8ljlcnr7j8dvdhrsm4q2ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LwiP8d-UD7d1sk09oK03jojkATYR_eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910507929298-vvkde5e56a8ljlcnr7j8dvdhrsm4q2ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
